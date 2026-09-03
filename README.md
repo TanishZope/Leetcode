@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/TanishZope/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishZope/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/TanishZope/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/TanishZope/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
