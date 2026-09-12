@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/TanishZope/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0078-subsets](https://github.com/TanishZope/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/TanishZope/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/TanishZope/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TanishZope/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/TanishZope/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/TanishZope/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TanishZope/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
