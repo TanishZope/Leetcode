@@ -13,12 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/TanishZope/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/TanishZope/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishZope/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/TanishZope/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/TanishZope/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/TanishZope/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/TanishZope/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/TanishZope/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
