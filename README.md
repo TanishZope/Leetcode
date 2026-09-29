@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/TanishZope/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishZope/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/TanishZope/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/TanishZope/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/TanishZope/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/TanishZope/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
