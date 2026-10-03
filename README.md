@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/TanishZope/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanishZope/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/TanishZope/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/TanishZope/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
