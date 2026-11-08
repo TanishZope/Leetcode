@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/TanishZope/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/TanishZope/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/TanishZope/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/TanishZope/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Trie
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/TanishZope/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/TanishZope/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -76,10 +78,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/TanishZope/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/TanishZope/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishZope/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TanishZope/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/TanishZope/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
