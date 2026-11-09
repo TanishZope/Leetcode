@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/TanishZope/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/TanishZope/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TanishZope/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/TanishZope/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0268-missing-number](https://github.com/TanishZope/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/TanishZope/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/TanishZope/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/TanishZope/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/TanishZope/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/TanishZope/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/TanishZope/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/TanishZope/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/TanishZope/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/TanishZope/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/TanishZope/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TanishZope/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/TanishZope/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
